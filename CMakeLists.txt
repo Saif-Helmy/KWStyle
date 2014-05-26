@@ -78,6 +78,8 @@ kwsCheckStruct.cxx
 kwsCheckVariables.cxx
 kwsCheckMemberFunctions.cxx
 kwsCheckFunctions.cxx
+kwsCheckUsingDirectives.cxx
+kwsCheckRelativePathInInclude.cxx
 )
 
 SUBDIRS(Utilities)
